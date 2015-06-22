@@ -1,0 +1,6 @@
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\bin\VehicleManagementSoftware.dll.config
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\bin\VehicleManagementSoftware.dll
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\bin\VehicleManagementSoftware.pdb
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\obj\Debug\VehicleManagementSoftware.dll
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\obj\Debug\VehicleManagementSoftware.pdb
+I:\Practices\Goup Project\VehicleManagementSoftware\VehicleManagementSoftware\obj\Debug\VehicleManagementSoftware.csprojResolveAssemblyReference.cache
